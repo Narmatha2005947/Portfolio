@@ -104,7 +104,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="./Assets/WhatsApp Image 2025-03-29 at 7.34.48 AM.jpeg" alt="Your Profile Picture"
+            <img src="./Assets/narmatha.jpg" alt="Your Profile Picture"
                 class="profile-picture">
             <h1>Narmatha R</h1>
             <p>Am python developer</p>
@@ -173,7 +173,7 @@
             <center>
                 <h2>Resume</h2>
                 <!-- <a href="file.pdf" target="_blank" class="download-button">Download CV</a> -->
-                <a href="./Assets/img.pdf" download="Narmatha_Resume.pdf" class="download-button">Download CV</a>
+                <a href="./Assets/img.pdf" target="_blank" class="download-button">Download CV</a>
             </center>
         </div>
 
